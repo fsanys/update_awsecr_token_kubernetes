@@ -20,7 +20,7 @@ The pipeline consists of 4 parts:
 
 ## How to use
 
-1. Install and Initialize AWS credentials
+1. Install and Initialize AWS credentials plugin
 
 In Jenkins, go to "Manage Plugins", then search for the available package and install "CloudBees Amazon Web Services Credentials Plugin"
 
