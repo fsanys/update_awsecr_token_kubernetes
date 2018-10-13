@@ -18,6 +18,8 @@ The pipeline consists of 4 parts:
  * KUBCETL, update the secret using the password obtained via docker client
 
 
+
+
 ## How to use
 
 1. Install and Initialize AWS credentials plugin
